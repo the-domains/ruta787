@@ -1,28 +1,40 @@
-name: RUTA787
-favicon: null
-layout_spectrum: 0.25145
-typography_spectrum: 0.0962
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.007661955896764994
+  brandStrength: 0.611111
+  lightness: 0.6906249613966793
   brandColors:
     - '#000000'
-    - '#ffffff'
-    - '#00a652'
-    - '#565656'
-    - '#a4a4a4'
-  brandStrength: 0.75
-  lightness: 0.3125
-  saturation: 0.375
-  rhythmicContrast: 0.75
-purpose: []
+    - '#FFFFFF'
+    - '#00A652'
+    - '#444444'
+    - '#A4A7AE'
+  rhythmicContrast: 0.2982198903337121
+typography_spectrum: 0.5250896
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: RUTA787
