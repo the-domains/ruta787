@@ -1,0 +1,28 @@
+name: RUTA787
+favicon: null
+layout_spectrum: 0.768947184085846
+typography_spectrum: 0.12895127781666815
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9414797844365239
+  lightness: 0.6906249613966793
+  saturation: 0.007661955896764994
+  rhythmicContrast: 0.2982198903337121
+purpose: []
