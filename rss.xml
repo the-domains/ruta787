@@ -2,14 +2,26 @@
     <channel>
         <title><![CDATA[RUTA787]]></title>
         <description><![CDATA[RUTA787]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ruta787/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 20:01:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 02:44:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ruta787/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p>Tu “classic spot”
+universitario. Si estudiaste en la UPR-B, este era parte de los famosos 900’s.
+No importa si era lunes y querías beber con un billarcito, o te diste la “COLGá” de la vida, este era
+tu RUTA. Una barra clásica, alcohol económico, la nueva nevera con cervezas
+artesanales y el beneficio de poder comer y beber. Hace de La Lomita una
+RUTA clásica en Bayamón.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a9342f6-f235-4b24-9ab4-d49f1cc9f952.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ruta787/dc24aa3e-e72a-407d-8cb6-b52d26ce4524/index.html</link>
+            <guid isPermaLink="false">dc24aa3e-e72a-407d-8cb6-b52d26ce4524</guid>
+            <pubDate>Tue, 26 Apr 2016 02:44:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[RUTA787]]></title>
             <description><![CDATA[<p>RUTA787</p>]]></description>
-            <link>undefinedruta787/index.html</link>
+            <link>https://thegrid.ai/ruta787/ruta787/index.html</link>
             <guid isPermaLink="false">1771cc8f-725c-4370-802d-cd3d0453bcb4</guid>
             <pubDate>Wed, 20 Apr 2016 20:00:29 GMT</pubDate>
         </item>
