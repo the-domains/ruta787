@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: RUTA787
+favicon: null
+layout_spectrum: 0.23504
+typography_spectrum: 0.5250896
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.007661955896764994
-  brandStrength: 0.611111
-  lightness: 0.6906249613966793
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#00A652'
     - '#444444'
     - '#A4A7AE'
+  brandStrength: 0.611111
+  lightness: 0.6906249613966793
+  saturation: 0.007661955896764994
   rhythmicContrast: 0.2982198903337121
-typography_spectrum: 0.5250896
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: RUTA787
+purpose: []
